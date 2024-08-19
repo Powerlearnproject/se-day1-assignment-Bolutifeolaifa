@@ -11,12 +11,15 @@ Software engineering is the systematic application of engineering principles to 
 
 Importance in the technology industry:
 It enables creation of complex software systems that power modern technology
+
 It ensures software is reliable, scalable, and maintainable
+
 It facilitates innovation and rapid technological advancement
+
 It ensures software meets user needs and business requirements
 
-Identify and describe at least three key milestones in the evolution of software engineering.
 
+Identify and describe at least three key milestones in the evolution of software engineering.
 
 (a) 1968 NATO Software Engineering Conference:
 First use of the term "software engineering"
@@ -71,6 +74,7 @@ Manages resources, timelines, and budgets
 Communicates with stakeholders and team members
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 Integrated Development Environments (IDEs):
 Provide comprehensive facilities for software development
 Include code editor, debugger, compiler, and other tools
@@ -99,8 +103,11 @@ Strategies:
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 Unit Testing:This tests individual components or functions. It ensures each part of the code works as expected
+
 Integration Testing: It tests interactions between different components or systems. it Verifies that integrated parts work together correctly
+
 System Testing:This tests the entire system as a whole. it ensures the system meets specified requirements
+
 Acceptance Testing:It validates that the system meets user needs and business requirements and it is often performed by end-users or clients
 
 
